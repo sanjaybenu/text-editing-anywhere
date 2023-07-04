@@ -1,4 +1,4 @@
-# Text-Editing=Everywhere
+# Text-Editing-Everywhere
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue)
 
@@ -94,4 +94,4 @@ Users of software using an MIT License are permitted to use, copy, modify, merge
 
 ## Questions
 
-If you have any questions or suggestions please [contact](mailto:sanjaybenu@gmail.com?subject=README_file_generator) or visit [github/sanjaybenu](https://github.com/sanjaybenu)
+If you have any questions or suggestions please [contact](mailto:sanjaybenu@gmail.com?subject=Text_Editing_Everywhere) or visit [github/sanjaybenu](https://github.com/sanjaybenu)
